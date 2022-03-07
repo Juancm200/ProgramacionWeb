@@ -1,0 +1,102 @@
+body{
+    
+    background:  url(imagen_portafolio.jpg);
+    background-repeat: no-repeat;
+    background-size: auto 205%;
+    min-height: 100vh;
+    font-family: sans-serif;
+
+}
+    
+
+
+.encabezadodetexto{
+   /* Rectangle 1 */
+
+
+position: absolute;
+width: 926px;
+height: 201px;
+left: 73px;
+top: 55px;
+
+background: rgba(255, 255, 255, 0.3);
+border-radius: 25px;
+    
+
+}
+.fotografia{
+position: absolute;
+width: 200px;
+height: 200px;
+left: 1037px;
+top: 55px;
+
+background: url(unnamed.jpg);
+border-radius:150px}
+
+.contenido{
+    position: absolute;
+width: 1000px;
+height: 1000px;
+left: 83px;
+top: 293px;
+
+}
+
+.item{
+    margin: 2em;
+    padding: 1em;
+    float: left;
+
+
+
+}
+
+#item1{
+    /* Rectangle 2 */
+width: 200px;
+height: 300px;
+left: 85.31px;
+top: 40px;
+
+background: rgba(196, 196, 196, 0.3);
+border-radius: 25px;
+}
+
+#item2{
+/* Rectangle 2 */
+width: 200px;
+height: 300px;
+left: 85.31px;
+top: 40px;
+
+
+
+background: rgba(196, 196, 196, 0.3);
+border-radius: 25px;
+}
+
+#item3{
+
+    /* Rectangle 2 */
+    width: 200px;
+    height: 300px;
+    left: 85.31px;
+    top: 40px;
+
+
+background: rgba(196, 196, 196, 0.3);
+border-radius: 25px;
+}
+
+.footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    text-align: center;
+    background-color: lightcoral;
+ }
+ 
